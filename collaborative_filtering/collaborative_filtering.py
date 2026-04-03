@@ -131,7 +131,7 @@ def create_sample_data():
         '电影 F': [0, 3, 4, 0, 0, 4, 0, 0, 5, 4],
     }
     
-    users = [f'用户{i}' for i in range(1, 11)]
+    users = [f'User{i}' for i in range(1, 11)]
     df = pd.DataFrame(data, index=users)
     
     return df
@@ -156,7 +156,7 @@ def main():
     print("User-based 协同过滤推荐")
     print("=" * 50)
     
-    target_user = '用户 1'
+    target_user = 'User1'
     recommendations = cf.user_based_recommend(target_user, n_recommend=3)
     
     print(f"\n为 {target_user} 推荐：")
