@@ -1,6 +1,6 @@
 # 协同过滤（Collaborative Filtering）
 
-对应小红书笔记：[3 分钟讲清楚协同过滤，小白也能懂](https://www.xiaohongshu.com/explore/69cf6af2000000002202ba9f)
+对应小红书笔记：[3 分钟讲清楚协同过滤，小白也能懂](https://www.xiaohongshu.com/explore/69d4a8180000000020038762)
 
 ## 📌 代码说明
 
@@ -89,7 +89,7 @@ Item-based 推荐结果：
 
 ## 📚 参考资料
 
-1. [推荐系统实践 - 项亮](https://book.douban.com/subject/10769813/)
+1. [推荐系统实践 - 项亮](https://book.douban.com/subject/10769749/)
 2. [Collaborative Filtering for Implicit Feedback Datasets](https://ieeexplore.ieee.org/document/4781121)
 
 ## 💬 问题交流
