@@ -6,7 +6,7 @@
 
 - 非全研究生，推荐系统方向
 - 小红书：[熙洲](https://www.xiaohongshu.com/user/profile/5c8149b8000000001602b584)
-- GitHub: [github.com/canglan1989/xiaohongshu-codes](https://github.com/canglan1989/xiaohongshu-codes)
+- GitHub: [github.com/canglan1989/recsys-notes](https://github.com/canglan1989/recsys-notes)
 - 记录 AI 学习过程 + 推荐系统实战
 
 ## 📖 目录
@@ -17,7 +17,7 @@
 |------|------|---------|
 | `collaborative_filtering/` | 协同过滤实现 | [3 分钟讲清楚协同过滤](http://xhslink.com/o/1YVhkzwXquD) |
 | `recommendation_algorithms/` | 4 种推荐算法对比 | [协同过滤之后，推荐系统还有哪些玩法？](待更新) |
-| `embedding-tutorial/` | Embedding 完整教程（含可视化） | 更新中... |
+| `embedding-tutorial/` | Embedding 完整教程（含可视化） | [Embedding 到底是啥？用人类语言解释](http://xhslink.com/o/A2jlRJf333T) |
 | `feature_engineering/` | 特征工程技巧 | 更新中... |
 
 ### 论文复现
@@ -36,10 +36,10 @@
 
 ```bash
 # 克隆仓库
-git clone https://github.com/canglan1989/xiaohongshu-codes.git
+git clone https://github.com/canglan1989/recsys-notes.git
 
 # 进入目录
-cd xiaohongshu-codes
+cd recsys-notes
 
 # 安装依赖
 pip install -r requirements.txt
